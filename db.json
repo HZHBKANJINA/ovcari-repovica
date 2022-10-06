@@ -1,0 +1,238 @@
+{
+    "idoli":[
+        {
+            "id": 7,
+            "ime": "Fabijan",
+            "prezime": "Pavic",
+            "nadimak": "Fabijan",
+            "godiste": "1956",
+            "mjesto": "Ovcari",
+            "opis_idola": "Ostavila ga zena i djeca jer se nije trijeznio,vratio se u rodni kraj gdje je nastavio piti."
+          },
+          {
+            "id": 8,
+            "ime": "Zdravko",
+            "prezime": "Krizanovic",
+            "nadimak": "Roke",
+            "godiste": "1957",
+            "mjesto": "Ovcari",
+            "opis_idola": "Najbolji covjek na podrucju sjeverne Herceg Bosne.Brine se o HRVATIMA.Voli uzeti koju casu viska,3 puta zaglavio jednom nije mogao dovesti auto,jednom usao s njemackim ovcarom u psecu kucicu i osjetio ugriz psa,jednom vratili ga iz kafane i onda on vratio u kafanu onog tko ga je doveo do kuce."
+          },
+          {
+            "id": 9,
+            "ime": "Mladen",
+            "prezime": "Petrovic",
+            "nadimak": "Matisa jr.",
+            "godiste": "1939",
+            "mjesto": "Ovcari",
+            "opis_idola": "Bio izlozen progonu od strane balija.Pobjegao u rodni kraj.Voli glasno pricati i suprostaviti se balijama."
+          },
+          {
+            "id": 10,
+            "ime": "Darko",
+            "prezime": "Juric",
+            "nadimak": "Dare Jebac",
+            "godiste": "1964",
+            "mjesto": "Ovcari",
+            "opis_idola": "Stravstveni ribar.Ostavio zenu i dijete radi porno glumice."
+          },
+          {
+            "id": 11,
+            "ime": "Ivica",
+            "prezime": "Rajic",
+            "nadimak": "Pijano",
+            "godiste": "1960",
+            "mjesto": "Ovcari",
+            "opis_idola": "Teski alkoholicar,ostavio zenu i dijete zbog druge,na drugom vjencanju ostavio novu zenu i vratio se staroj.S rodjenim bratom radio orgije u Njemackoj s najvecom kurvom u selu."
+          },
+          {
+            "id": 12,
+            "ime": "Bruno",
+            "prezime": "Rajic",
+            "nadimak": "Bruno Rajic",
+            "godiste": "1962",
+            "mjesto": "Ovcari",
+            "opis_idola": "Nepoznat do 2019.godine.Poslje toga se vratio u rodni kraj gdje je napustio zenu.Ozenio se sa najvecom kurvom u selu i sa bratom Pijanom otisao u Njemacku gdje su radili orgije."
+          },
+          {
+            "id": 13,
+            "ime": "Branko",
+            "prezime": "Rajic",
+            "nadimak": "Rodjak Brane",
+            "godiste": "1957",
+            "mjesto": "Ovcari",
+            "opis_idola": "Ozenio se 2 puta,prvi put ga ostavila zena jer mu je opeglala karticu i razbila novog mercedesa s500,drugi put ozenio sado-mazo zenu od 150kg."
+          },
+          {
+            "id": 14,
+            "ime": "Branko",
+            "prezime": "Rajic",
+            "nadimak": "Kusmo",
+            "godiste": "1946",
+            "mjesto": "Ovcari",
+            "opis_idola": "Seksualni ovisnik,voli da su oko njega zene."
+          },
+          {
+            "id": 15,
+            "ime": "Vlatko",
+            "prezime": "Kozaric",
+            "nadimak": "Kozara",
+            "godiste": "1953",
+            "mjesto": "Ovcari",
+            "opis_idola": "Ostavio prvu zenu radi kurve,drvosjeca i transporter,svaki balvan drva gutav ne moze se izrezati a preskup."
+          },
+          {
+            "id": 16,
+            "ime": "Vlatko",
+            "prezime": "Perkovic",
+            "nadimak": "Vlatko",
+            "godiste": "1964",
+            "mjesto": "Ovcari",
+            "opis_idola": "Sportski tip,radi sve fizicke muske i zenske poslove."
+          },
+          {
+            "id": 17,
+            "ime": "Mile",
+            "prezime": "Perkovic",
+            "nadimak": "Mico",
+            "godiste": "1961",
+            "mjesto": "Ovcari",
+            "opis_idola": "Sportski tip, radi sve poslove,kuhar."
+          },
+          {
+            "id": 18,
+            "ime": "Dalibor",
+            "prezime": "Trlin",
+            "nadimak": "Dado Trlin",
+            "godiste": "1974",
+            "mjesto": "Ovcari",
+            "opis_idola": "Pocasni pripadnik HV koji brani HRVATE od balija."
+          },
+          {
+            "id": 19,
+            "ime": "Ante",
+            "prezime": "Pranjic",
+            "nadimak": "Ante Pranjic",
+            "godiste": "1969",
+            "mjesto": "Ovcari",
+            "opis_idola": "Ozenio balinkuru i doveo je medju HRVATE,zena mu stvara incidente u selu."
+          },
+          {
+            "id": 20,
+            "ime": "Dragan",
+            "prezime": "Boras",
+            "nadimak": "Cencilo",
+            "godiste": "1965",
+            "mjesto": "Ovcari",
+            "opis_idola": "Pobjego u Ameriku od balija,voli popit koju casu rakije vise,kad popije veselje nastaje."
+          },
+          {
+            "id": 21,
+            "ime": "Vlado",
+            "prezime": "Andric",
+            "nadimak": "Vlado Ribar",
+            "godiste": "1959",
+            "mjesto": "Ovcari",
+            "opis_idola": "Najsporiji covjek u selu,ono sto drugi urade u roku od predvidjenog on radi tri puta sporije."
+          },
+          {
+            "id": 22,
+            "ime": "Zdravko",
+            "prezime": "Juric",
+            "nadimak": "Orac",
+            "godiste": "1963",
+            "mjesto": "Ovcari",
+            "opis_idola": "Planinar,kasno se ozenio,nadimak dobio jer ore njive HRVATIMA."
+          },
+          {
+            "id": 23,
+            "ime": "Marinko",
+            "prezime": "Petrovic",
+            "nadimak": "DJ Marinko",
+            "godiste": "1935",
+            "mjesto": "Ovcari",
+            "opis_idola": "Prodaje krmad,voli zezanciju i salu,popije koju rakiju viska."
+          },
+          {
+            "id": 24,
+            "ime": "Tadija",
+            "prezime": "Bozic",
+            "nadimak": "Tade Bozic",
+            "godiste": "1953",
+            "mjesto": "Ovcari",
+            "opis_idola": "Voli popiti koju rakiju viska,dobar golman u nogometu,vozac predstavnika HDZ-a."
+          },
+          {
+            "id": 25,
+            "ime": "Drazen",
+            "prezime": "Azinovic",
+            "nadimak": "Dado Vrbic",
+            "godiste": "1974",
+            "mjesto": "Vrbici",
+            "opis_idola": "Teski alkoholicar,cijelo vrijeme provodi u Spuzvama,ozenio nestabilnu osobu koju je ostavio."
+          },
+          {
+            "id": 26,
+            "ime": "Marijo",
+            "prezime": "Azinovic",
+            "nadimak": "Marijo Vrbic",
+            "godiste": "1965",
+            "mjesto": "Vrbici",
+            "opis_idola": "Teski HRVAT,ima hrabrosti da pusti domoljubne HRVATSKE pjesme pred balijama."
+          },
+          {
+            "id": 27,
+            "ime": "Nino",
+            "prezime": "Arapovic",
+            "nadimak": "Nino",
+            "godiste": "1959",
+            "mjesto": "Vrbici",
+            "opis_idola": "Osto mlad bez zene,voli popit koju rakiju viska,prilikom blagoslova polja na Zelenim Njivama pao i razbio glavu na kamen bez tezih posljedica."
+          },
+          {
+            "id": 28,
+            "ime": "Miro",
+            "prezime": "Boras",
+            "nadimak": "Brile",
+            "godiste": "1964",
+            "mjesto": "Ovcari",
+            "opis_idola": "Najjaca osoba po svemu,vrijedan radi sve poslove,voli koju rakiju viska,voli zene pogotovo u crvenom rublju,kad nadje neku potrosi svoju cijelu mirovinu na zenske usluge,hrabar da se suprostavi balijama."
+          },
+          {
+            "id": 29,
+            "ime": "Bruno",
+            "prezime": "Boras",
+            "nadimak": "Bruno Boras",
+            "godiste": "1962",
+            "mjesto": "Ovcari",
+            "opis_idola": "Ostavio zenu i dijete zbog kurve,ozenio kurvu i dobio s njom dvoje djece.Voli ribolov,lov,i koju rakiju viska,pogotovo ne moze bez Zuje."
+          },
+          {
+            "id": 54,
+            "ime": "Zeljko",
+            "prezime": "Petrovic",
+            "nadimak": "Zelja Repovica",
+            "godiste": "1985",
+            "mjesto": "Repovica",
+            "opis_idola": "Najsmotanija osoba u selu,nema pojma o zivotu.U 30 i nekoj ponasa se ko da mu je 2 godine."
+          },
+          {
+            "id": 55,
+            "ime": "Zdravko",
+            "prezime": "Juric",
+            "nadimak": "Zdravko",
+            "godiste": "1939",
+            "mjesto": "Repovica",
+            "opis_idola": "Vrhunski majstor,veliki HRVAT."
+          },
+          {
+            "id": 56,
+            "ime": "Tomo",
+            "prezime": "Blazevic",
+            "nadimak": "Tomo struja",
+            "godiste": "1935",
+            "mjesto": "Repovica",
+            "opis_idola": "Veliki majstor i ziva provala,u vrhunskoj nogometnoj formi s 87 godina,napadac."
+          }
+    ]
+}
